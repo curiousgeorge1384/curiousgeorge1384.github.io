@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://curiousgeorge1384.github.io/categories/</loc>
     <lastmod>2023-03-15T21:56:03+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://curiousgeorge1384.github.io/</loc>
     <lastmod>2023-03-15T21:56:03+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/gobuster/</loc>
+    <loc>https://curiousgeorge1384.github.io/tags/gobuster/</loc>
     <lastmod>2023-03-15T21:56:03+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/gobuster/</loc>
+    <loc>https://curiousgeorge1384.github.io/post/gobuster/</loc>
     <lastmod>2023-03-15T21:56:03+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>https://curiousgeorge1384.github.io/tags/hugo/</loc>
     <lastmod>2023-03-15T21:56:03+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://curiousgeorge1384.github.io/post/</loc>
     <lastmod>2023-03-15T21:56:03+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/startup/</loc>
+    <loc>https://curiousgeorge1384.github.io/post/startup/</loc>
     <lastmod>2023-03-15T21:56:03+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://curiousgeorge1384.github.io/tags/</loc>
     <lastmod>2023-03-15T21:56:03+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/tutorial/</loc>
+    <loc>https://curiousgeorge1384.github.io/categories/tutorial/</loc>
     <lastmod>2023-03-15T21:56:03+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://curiousgeorge1384.github.io/about/</loc>
     <lastmod>2023-03-15T21:26:06+11:00</lastmod>
   </url>
 </urlset>
