@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gobuster on curious george&#39;s tech playground</title>
+    <link>http://example.org/tags/gobuster/</link>
+    <description>Recent content in Gobuster on curious george&#39;s tech playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2023 21:56:03 +1100</lastBuildDate><atom:link href="http://example.org/tags/gobuster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gobuster Web Application Attack</title>
+      <link>http://example.org/post/gobuster/</link>
+      <pubDate>Wed, 15 Mar 2023 21:56:03 +1100</pubDate>
+      
+      <guid>http://example.org/post/gobuster/</guid>
+      <description>What is Gobuster? Gobuster is a Linux command line tool used to view all hidden pages of a website. Some websites will leave admin panels unprotected, leaving them vulnerable for us to attack. For this, will will be using a TryHackMe website called fakebank.com, so lets get into it. Note, this will not work if you use a general Linux Terminal, you must use the TryHackMe room.
+Initiating the attack To begin the attack, we are going to open the Terminal and type in the follow command:</description>
+    </item>
+    
+  </channel>
+</rss>
