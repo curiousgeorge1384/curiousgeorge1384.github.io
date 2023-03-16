@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on curious george&#39;s tech playground</title>
+    <link>https://curiousgeorge1384.github.io/tags/ai/</link>
+    <description>Recent content in AI on curious george&#39;s tech playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2023 21:56:03 +1100</lastBuildDate><atom:link href="https://curiousgeorge1384.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPT-4 Release</title>
+      <link>https://curiousgeorge1384.github.io/post/gpt-4/</link>
+      <pubDate>Wed, 15 Mar 2023 21:56:03 +1100</pubDate>
+      
+      <guid>https://curiousgeorge1384.github.io/post/gpt-4/</guid>
+      <description>What is going on Open AI have recently announced the release of GPT-4, the successor of GPT-3.5. It is a huge jump from its predecessor, and is continuing the evolution of Artificial Intelligence and its capabilities. The best thing about it, is that it is multimodal.
+What does &amp;lsquo;multimodal&amp;rsquo; mean? The GPT-4 AI model is multimodal, meaning it can take in both image and text inputs, emitting text outputs. This is a massive game-changer, as you can simply give an image input, ask a question about it, and it will translate that image into something it can understand, process it, then give you back the answer to the question.</description>
+    </item>
+    
+  </channel>
+</rss>
