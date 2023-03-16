@@ -26,5 +26,14 @@ Initiating the attack To begin the attack, we are going to open the Terminal and
       <description>I have just recently created this blog, and I am testing out whether the post system works. I am unsure as to whether it will, but I hope it does. As to how I am making this blog, refer to below as I will explain exactly so. What to expect in this blog is a curious question, as I will do all the sorts. News, tutorials, how-tos, showcases, and generally me just doing a post on what I am doing at that moment in time.</description>
     </item>
     
+    <item>
+      <title>About Me</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 15 Mar 2023 21:26:06 +1100</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Introduction root@curiousgeorge:~ $ cat info.txt My name is Sam, I&amp;rsquo;m from Australia and I am a big enthusiast in IT, and a nerd. I self-taught myself using Youtube videos, podcasts and lots, lots of Google searches. I especially enjoy the HAK5 podcasts, but there are numerous other ones I listen to aswell. I have no certifications in anything, no degrees, but I am still a reasonably well-knowledgable person in IT. My future is looking to be something as either an ethical hacker or pen-tester, but we&amp;rsquo;ll have to wait and see.</description>
+    </item>
+    
   </channel>
 </rss>
