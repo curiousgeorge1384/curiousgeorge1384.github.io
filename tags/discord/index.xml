@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discord on curious george&#39;s tech playground</title>
+    <link>https://curiousgeorge1384.github.io/tags/discord/</link>
+    <description>Recent content in Discord on curious george&#39;s tech playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Mar 2023 00:11:02 +1100</lastBuildDate><atom:link href="https://curiousgeorge1384.github.io/tags/discord/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discord Server Designing 101 - Basics</title>
+      <link>https://curiousgeorge1384.github.io/post/discordsetup/</link>
+      <pubDate>Wed, 22 Mar 2023 00:11:02 +1100</pubDate>
+      
+      <guid>https://curiousgeorge1384.github.io/post/discordsetup/</guid>
+      <description>This is a reuploaded guide, I do not own anything written here. The original github guide can be found here
+A basic server template is available here
+Creating and Growing a Discord Server Introduction Hello! I&amp;rsquo;m jagrosh#4824! I&amp;rsquo;m writing this guide to try to help new server owners set up and grow their servers, which is a commonly-requested topic. It&amp;rsquo;s very easy to go about this the wrong way, so it&amp;rsquo;s best to be prepared and make smart decisions so that your community can flourish!</description>
+    </item>
+    
+  </channel>
+</rss>
